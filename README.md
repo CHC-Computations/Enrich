@@ -16,7 +16,7 @@ Enrich is a Python-based tool developed using the [Django](https://www.djangopro
     - Utilizing Python's built-in [difflib](https://docs.python.org/3/library/difflib.html) library and additional sequence matching libraries such as `Levenshtein`, Enrich identifies words that closely resemble the user-provided keywords.
     
 4. **National Library of Poland API**: 
-    - Enrich connects to the National Library of Poland through its API available at [data.bn.org.ok](http://data.bn.org.pl/). It links the similar keywords to bibliographic records from this library.
+    - Enrich connects to the National Library of Poland through its API available at [data.bn.org.pl](http://data.bn.org.pl/). It links the similar keywords to bibliographic records from this library.
   
 ### Technologies Used
 - [Django](https://www.djangoproject.com/)
