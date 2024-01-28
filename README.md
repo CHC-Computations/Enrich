@@ -1,7 +1,7 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 ## Enrich: LOD-based Data Mapper
 
-![alt text](https://github.com/CHC-Computations/Enrich/blob/main/enrich1.png?raw=true)
+![alt text](https://github.com/CHC-Computations/Enrich/blob/main/enrich2.png?raw=true)
 
 ### Overview
 
