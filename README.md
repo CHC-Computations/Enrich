@@ -5,7 +5,7 @@
 
 ### Overview
 
-Enrich is a Python-based tool developed using the [Django](https://www.djangoproject.com/) framework. Its primary goal is to enhance any given set of keywords with rich metadata, leveraging Linked Open Data (LOD) technologies. The tool pulls information from [Wikidata](https://www.wikidata.org/) and employs string similarity mechanisms like `difflib`, `SequenceMatcher`, and `Levenshtein` to match these keywords with records from the National Library of Poland via its API at [data.bn.org.ok](http://data.bn.org.ok/).
+Enrich is a Python-based tool developed using the [Django](https://www.djangoproject.com/) framework. Its primary goal is to enhance any given set of keywords with rich metadata, leveraging Linked Open Data (LOD) technologies. The tool pulls information from [Wikidata](https://www.wikidata.org/) and employs string similarity mechanisms like `difflib`, `SequenceMatcher`, and `Levenshtein` to match these keywords with records from the National Library of Poland via its API at [data.bn.org.pl](http://data.bn.org.pl/).
 
 ### Workflow
 
